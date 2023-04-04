@@ -1,0 +1,32 @@
+C:\Users\notox\Documents\WarShip\WarShip\bin\Debug\WarShip.exe.config
+C:\Users\notox\Documents\WarShip\WarShip\bin\Debug\WarShip.exe
+C:\Users\notox\Documents\WarShip\WarShip\bin\Debug\WarShip.pdb
+C:\Users\notox\Documents\WarShip\WarShip\obj\Debug\WarShip.csproj.AssemblyReference.cache
+C:\Users\notox\Documents\WarShip\WarShip\obj\Debug\WarShip.csproj.SuggestedBindingRedirects.cache
+C:\Users\notox\Documents\WarShip\WarShip\obj\Debug\WarShip.Form1.resources
+C:\Users\notox\Documents\WarShip\WarShip\obj\Debug\WarShip.Properties.Resources.resources
+C:\Users\notox\Documents\WarShip\WarShip\obj\Debug\WarShip.csproj.GenerateResource.cache
+C:\Users\notox\Documents\WarShip\WarShip\obj\Debug\WarShip.csproj.CoreCompileInputs.cache
+C:\Users\notox\Documents\WarShip\WarShip\obj\Debug\WarShip.exe
+C:\Users\notox\Documents\WarShip\WarShip\obj\Debug\WarShip.pdb
+E:\Проэкты C#\WarShip\WarShip\bin\Debug\WarShip.exe.config
+E:\Проэкты C#\WarShip\WarShip\bin\Debug\WarShip.exe
+E:\Проэкты C#\WarShip\WarShip\bin\Debug\WarShip.pdb
+E:\Проэкты C#\WarShip\WarShip\obj\Debug\WarShip.csproj.AssemblyReference.cache
+E:\Проэкты C#\WarShip\WarShip\obj\Debug\WarShip.Properties.Resources.resources
+E:\Проэкты C#\WarShip\WarShip\obj\Debug\WarShip.csproj.GenerateResource.cache
+E:\Проэкты C#\WarShip\WarShip\obj\Debug\WarShip.csproj.CoreCompileInputs.cache
+E:\Проэкты C#\WarShip\WarShip\obj\Debug\WarShip.exe
+E:\Проэкты C#\WarShip\WarShip\obj\Debug\WarShip.pdb
+C:\Users\notox\Documents\C#\WarShip\WarShip\bin\Debug\WarShip.exe.config
+C:\Users\notox\Documents\C#\WarShip\WarShip\bin\Debug\WarShip.exe
+C:\Users\notox\Documents\C#\WarShip\WarShip\bin\Debug\WarShip.pdb
+C:\Users\notox\Documents\C#\WarShip\WarShip\obj\Debug\WarShip.csproj.AssemblyReference.cache
+C:\Users\notox\Documents\C#\WarShip\WarShip\obj\Debug\WarShip.csproj.SuggestedBindingRedirects.cache
+C:\Users\notox\Documents\C#\WarShip\WarShip\obj\Debug\WarShip.Form1.resources
+C:\Users\notox\Documents\C#\WarShip\WarShip\obj\Debug\WarShip.Properties.Resources.resources
+C:\Users\notox\Documents\C#\WarShip\WarShip\obj\Debug\WarShip.csproj.GenerateResource.cache
+C:\Users\notox\Documents\C#\WarShip\WarShip\obj\Debug\WarShip.csproj.CoreCompileInputs.cache
+C:\Users\notox\Documents\C#\WarShip\WarShip\obj\Debug\WarShip.exe
+C:\Users\notox\Documents\C#\WarShip\WarShip\obj\Debug\WarShip.pdb
+E:\Проэкты C#\WarShip\WarShip\obj\Debug\WarShip.Form1.resources
